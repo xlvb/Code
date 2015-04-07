@@ -28,7 +28,7 @@ Public Function Txt_file_read()
             
                     For I_counter = 0 To UBound(Txt_value)
                     
-						ThisWorkbook.Sheets(1).Cells(RowCount, I_counter + 1).Value = Txt_value(I_counter)
+				ThisWorkbook.Sheets(1).Cells(RowCount, I_counter + 1).Value = Txt_value(I_counter)
                     
                     Next I_counter
             
