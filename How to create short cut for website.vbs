@@ -2,6 +2,15 @@
 
 '''######################################################################
 '''''http://www.excelvbscript.com/
+
+''''''''''''''''''''''''''''''''''
+'How to Run the code :
+
+'Step 1 : Open the Excel and type the list website in Column A
+'Step 2 : Excel Visual Basic editor (Short cut: Alt+F11)
+'Step 3 : Paste code above code to in "ThisWorkbook" module.
+'Step 4 : Press F5 or Run button to execute 
+'''''''''''''''''''''''''''''''''''''''''''''
 '''######################################################################
 
 
